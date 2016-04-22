@@ -13,8 +13,6 @@ Reply button is not obvious for some users
 
 No max post body length
 
-Deleted is a username!
-
 Nothing to show if a user is online
 
 Post Count is incorrect
