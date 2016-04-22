@@ -23,15 +23,6 @@ Your email is only visible to you, if you do not believe this is right, go to yo
 
 Search is not finished. It will not work right now
 
-Quote button is missing
-
-Editing thread titles do not update on last post section
-
-Dead button at the top of the page
-
-Alerts are at the top of the page but should be at the top of the viewport.
-
-
 
 ##BBCode Bugs
 
